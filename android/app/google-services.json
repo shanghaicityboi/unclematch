@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "454434935962",
+    "firebase_url": "https://uncle-match.firebaseio.com",
+    "project_id": "uncle-match",
+    "storage_bucket": "uncle-match.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454434935962:android:daac6dc4dffabd7a5c3b23",
+        "android_client_info": {
+          "package_name": "com.unclematch.v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454434935962-7i89vgmbciil02cau6k5372ilpblc064.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFk6fdnsn66l_nDr73GLfiwX1Gtm-VZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454434935962-7i89vgmbciil02cau6k5372ilpblc064.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
